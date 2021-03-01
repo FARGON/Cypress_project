@@ -1,9 +1,6 @@
-/// <reference types="cypress" />
-
-
+/// <reference types="Cypress" />
 
 //require('cypress-xpath')
-
 
 context('Actions', () => {
     beforeEach(() => {
